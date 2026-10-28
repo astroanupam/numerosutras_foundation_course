@@ -1,0 +1,16 @@
+{
+  "name": "NUMEROSUTRAS Foundation Course on Numerology",
+  "short_name": "NUMEROSUTRAS",
+  "description": "NUMEROSUTRAS: Foundation Course on Numerology, in English and Hindi. Instructor: SHWETA VIJAYVARRGIYA.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3b3a8c",
+  "theme_color": "#3b3a8c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
